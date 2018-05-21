@@ -1,10 +1,7 @@
 # House-Prices-Prediction
 
-## <a href="http://htmlpreview.github.io/?https://github.com/rmissaoui/House-Prices-Prediction/blob/master/House-Prices-Prediction.html"> <div style="font-size:120%;  margin-left: 25px;"> <span class="label label-success">  Go to the Notebook </span></div> </a>
+## <a href="http://htmlpreview.github.io/?https://github.com/rmissaoui/House-Prices-Prediction/blob/master/House-Prices-Prediction.html">  ==> Go to the Notebook </a>
 
-<div style="font-size:120%;  margin-left: 25px;"> 
-   <span class="label label-success"> Loading data as a dataframe</span>
-</div>
 
 
 
