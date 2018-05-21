@@ -2,7 +2,9 @@
 
 ## <a href="http://htmlpreview.github.io/?https://github.com/rmissaoui/House-Prices-Prediction/blob/master/House-Prices-Prediction.html"> <div style="font-size:120%;  margin-left: 25px;"> <span class="label label-success">  Go to the Notebook </span></div> </a>
 
-###  <a id='I.1'></a> <div style="font-size:120%;  margin-left: 25px;"> <span class="label label-success">I.1</span>  <span class="label label-success"> Loading data as a dataframe</span></div>
+<div style="font-size:120%;  margin-left: 25px;"> 
+   <span class="label label-success"> Loading data as a dataframe</span>
+</div>
 
 
 
