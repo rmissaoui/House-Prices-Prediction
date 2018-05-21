@@ -1,6 +1,5 @@
 # House-Prices-Prediction
-<br>
-<a href="http://htmlpreview.github.io/?https://github.com/rmissaoui/House-Prices-Prediction/blob/master/House-Prices-Prediction.html">link to better visualize the notebook</a>
+## <a href="http://htmlpreview.github.io/?https://github.com/rmissaoui/House-Prices-Prediction/blob/master/House-Prices-Prediction.html"> Go to the Notebook </a>
 <br>
  A full-fledged approach to make predictions about the future sale prices of houses.
 <br>
