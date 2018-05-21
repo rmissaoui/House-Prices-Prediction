@@ -1,6 +1,8 @@
 # House-Prices-Prediction
- A full-fledged approach to make predictions about the future sale prices of houses. 
+ A full-fledged approach to make predictions about the future sale prices of houses.
+<br>
 This approach consists in:
+<br>
 I-  Descriptive statistics about the data
 II- Data cleaning and pre-processing
 III-Defining a modeling approach to the problem
