@@ -1,6 +1,11 @@
 # House-Prices-Prediction
 
-## <div style="font-size:120%;  margin-left: 25px;"> <span class="label label-success"> <a href="http://htmlpreview.github.io/?https://github.com/rmissaoui/House-Prices-Prediction/blob/master/House-Prices-Prediction.html"> Go to the Notebook </a> </span></div>
+## <a href="http://htmlpreview.github.io/?https://github.com/rmissaoui/House-Prices-Prediction/blob/master/House-Prices-Prediction.html"> <div style="font-size:120%;  margin-left: 25px;"> <span class="label label-success">  Go to the Notebook </span></div> </a>
+
+###  <a id='I.1'></a> <div style="font-size:120%;  margin-left: 25px;"> <span class="label label-success">I.1</span>  <span class="label label-success"> Loading data as a dataframe</span></div>
+
+
+
 
 <br>
  A full-fledged approach to make predictions about the future sale prices of houses.
